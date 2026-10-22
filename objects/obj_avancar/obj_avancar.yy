@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_avancar",
+    "path":"sprites/spr_avancar/spr_avancar.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
