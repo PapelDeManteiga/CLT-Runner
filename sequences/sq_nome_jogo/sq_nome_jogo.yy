@@ -26,8 +26,8 @@
   },
   "name":"sq_nome_jogo",
   "parent":{
-    "name":"CLT-Runner",
-    "path":"CLT-Runner.yyp",
+    "name":"sequences",
+    "path":"folders/sequences.yy",
   },
   "playback":0,
   "playbackSpeed":60.0,

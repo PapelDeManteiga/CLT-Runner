@@ -6,7 +6,7 @@ if (keyboard_check_pressed(vk_space))
 	}
 	else
 	{
-		paginas = 0;
+		room_goto(rm_jogo);
 	}
 }
 
